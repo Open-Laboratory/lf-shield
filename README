@@ -1,0 +1,16 @@
+ 
+This is a template for new Freeduino, Arduino shields. 
+The template is made in KiCAD EDA.
+
+Quick start
+-----------
+
+Download the project https://github.com/lexaficus/lf-shield/archives/master
+or clone git repository http://github.com/lexaficus/lf-shield.git
+
+Rename all lf-shield.* files to MyShied.* where MyShied is a new name of your shield.
+Open MyShield project into KiCAD.
+Start your work.
+
+Copyright by Alexey Pavlyukov <Alexey.Pavlyukov at gmail.com> 2011.
+License: CC BY (Creative Commons Attribution).
