@@ -5,8 +5,8 @@ The template is made in KiCAD EDA.
 Quick start
 -----------
 
-Download the project https://github.com/lexaficus/lf-shield/archives/master
-or clone git repository http://github.com/lexaficus/lf-shield.git
+Download the project https://github.com/Open-Laboratory/lf-shield/archives/master
+or clone git repository https://github.com/Open-Laboratory/lf-shield.git
 
 Rename all lf-shield.* files to MyShied.* where MyShied is a new name of your shield.
 Open MyShield project into KiCAD.
